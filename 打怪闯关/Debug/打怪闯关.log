@@ -1,0 +1,10 @@
+﻿  main.cpp
+E:\program\c++\游戏设计\打怪闯关\打怪闯关\player.h(22,21): warning C4018: “<”: 有符号/无符号不匹配
+E:\program\c++\游戏设计\打怪闯关\打怪闯关\main.cpp(174,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\program\c++\游戏设计\打怪闯关\打怪闯关\main.cpp(187,21): warning C4018: “<”: 有符号/无符号不匹配
+E:\program\c++\游戏设计\打怪闯关\打怪闯关\main.cpp(221,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\program\c++\游戏设计\打怪闯关\打怪闯关\main.cpp(242,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\program\c++\游戏设计\打怪闯关\打怪闯关\main.cpp(290,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\program\c++\游戏设计\打怪闯关\打怪闯关\main.cpp(311,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\program\c++\游戏设计\打怪闯关\打怪闯关\main.cpp(433,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  打怪闯关.vcxproj -> E:\program\c++\游戏设计\打怪闯关\Debug\打怪闯关.exe
